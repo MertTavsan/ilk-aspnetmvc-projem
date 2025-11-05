@@ -157,3 +157,8 @@
 /workspaces/ilk-aspnetmvc-projem/MvcApp/obj/Release/net8.0/MvcApp.pdb
 /workspaces/ilk-aspnetmvc-projem/MvcApp/obj/Release/net8.0/MvcApp.genruntimeconfig.cache
 /workspaces/ilk-aspnetmvc-projem/MvcApp/obj/Release/net8.0/ref/MvcApp.dll
+/workspaces/ilk-aspnetmvc-projem/MvcApp/bin/Release/net8.0/out/web.config
+/workspaces/ilk-aspnetmvc-projem/MvcApp/bin/Release/net8.0/out/appsettings.Development.json
+/workspaces/ilk-aspnetmvc-projem/MvcApp/bin/Release/net8.0/out/appsettings.json
+/workspaces/ilk-aspnetmvc-projem/MvcApp/bin/Release/net8.0/out/MvcApp.deps.json
+/workspaces/ilk-aspnetmvc-projem/MvcApp/bin/Release/net8.0/out/MvcApp.runtimeconfig.json
